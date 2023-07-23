@@ -19,8 +19,6 @@ Me chamo Jean Torre e estou em transição de carreira para a área de análise 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-torre-44a27914b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/torrej/)
 
-![Snake animation](https://github.com/jeantorre/jeantorre/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **jeantorre/jeantorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
