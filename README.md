@@ -3,8 +3,8 @@ Me chamo Jean Torre e estou em transição de carreira para a área de análise 
 
 <div align="">
   <a href="https://github.com/jeantorre">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeantorre&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&hide_border=false&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeantorre&theme=gruvbox&hide_border=false&&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeantorre&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeantorre&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
