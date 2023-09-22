@@ -1,5 +1,6 @@
 # Fala galera!
-Me chamo Jean Torre e estou em transição de carreira para a área de análise de dados👋
+Me chamo Jean Torre e estou em transição de carreira para a área de análise de dados👋  
+Se quiser ver meu portfólio, vem direto [aqui](https://github.com/jeantorre/EDA) ó! É só selecionar seu tema preferido pela coluna "LinkedIn"!
 
 <div align="">
   <a href="https://github.com/jeantorre">
