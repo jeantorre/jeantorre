@@ -1,6 +1,8 @@
-# Fala galera!
-Me chamo Jean Torre e estou em transição de carreira para a área de análise de dados👋  
-Se quiser ver meu portfólio, vem direto [aqui](https://github.com/jeantorre/EDA) ó! É só selecionar seu tema preferido pela coluna "LinkedIn"!
+# Fala galera!👋
+Me chamo Jean Torre e sou responsável pela Arquitetura e Engenharia de Dados da RioSaúde, uma empresa pública de saúde do município do Rio de Janeiro!  
+
+Estamos ***transformando os dados*** de saúde em ***decisões na saúde pública da cidade***!  
+Quer saber mais sobre nós? [Acesse aqui](https://jeantorre.github.io/riosaude_nucleo_bi/)!
 
 <div align="">
   <a href="https://github.com/jeantorre">
@@ -15,7 +17,11 @@ Se quiser ver meu portfólio, vem direto [aqui](https://github.com/jeantorre/EDA
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
-          
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />            
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
 #
